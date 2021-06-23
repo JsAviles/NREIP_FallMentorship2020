@@ -34,7 +34,7 @@ Fall project assigned by the United States Naval Academy, which purposed me with
 imgCompy.py uses stem.jpg and creates several files for comparison:
 
 * **NREIP_uncompF.txt** - Text file containing the uncompressed raw data of the image stem.jpg
-* **NREIP_compF.txt** - Text file containing the lossess encoded raw data (compressed) of stemp.jpg
+* **NREIP_compF.txt** - Text file containing the lossess encoded raw data (compressed) of stem.jpg
 * **NREIP_uncompressed_image.tiff** - Raw image before lossless compression occurs
 * **NREIP_compressed_image.tiff** -  Raw image recreated after lossless compress/decompress occurs
 
