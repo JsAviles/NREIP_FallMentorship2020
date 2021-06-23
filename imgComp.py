@@ -144,7 +144,7 @@ newcompImage = Image.fromarray(dcImage)
 newcompImage.save('NREIP_compressed_image.tiff')
 
 print("\nFinished writing to uncompressedF.txt...")
-print("_________________________________________________________")
+print("_________________________________________________________\n")
 
 # Close open files
 uncompressedF.close()
